@@ -1,0 +1,21 @@
+crear proyecto 
+
+- yarn create vite
+- vanilla
+- typeScript
+
+luego en la carpeta en la terminal ejecutamos
+- "yarn" para instalar las dependencias del proyecto
+- "yarn dev" esto levanta nuestra aplicacion
+
+- https://pokeapi.co/
+
+dependencias del proyecto {
+	- yarn add axios
+}
+
+desestructuración:
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+- Decoradores si da error 05-decoratoirs.ts
+"experimentalDecorators": true,
